@@ -2,7 +2,7 @@
 - 👀 I’m interested in English and Programming
 - 🌱 I’m currently learning English
 - 💞️ I'm looking for study with me
-- 📫 Reach me Twitter,Line,Discord. 
+- 📫 I use Twitter,Line,Discord. 
 
 <!---
 ramune-0119/ramune-0119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
